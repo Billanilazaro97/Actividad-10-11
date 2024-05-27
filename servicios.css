@@ -1,0 +1,19 @@
+body {
+    background-image: url(/img/net2.png);
+    background-size: cover;
+}
+h1{
+    background-color: #63C4B4;
+    color: #E1F4F1;
+    font-family: cursive;
+}
+h3 {
+    background-color: #63C4B4;
+    color: #E1F4F1;
+    font-family: cursive;
+    
+}
+li {
+    font-family: cursive;
+
+}
