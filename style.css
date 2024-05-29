@@ -71,7 +71,13 @@
     margin-bottom: 10px;
     text-shadow: 2px 2px 4px;
     font-size: 2.5rem;
-} 
+}
+.celulares ul {
+    list-style: circle; 
+    padding: 1; 
+    margin: 0; 
+}
+
 
 .celulares li {
     background-color: #b6b008; 
@@ -120,18 +126,78 @@
 }
 
 
+.Antivirus {
+    background-color: #b50404; 
+    border: 2px solid #090909; 
+    padding: 20px; 
+    margin: 20px 0;
+    border-radius: 8px; 
+}
 
-
-
-
-/* .div Venta {
+.Antivirus h2 {
+    color: #b6b008; 
+    margin-bottom: 10px; 
+    text-shadow: 2px 2px 4px;
     text-align: center;
-    border: 1px solid #E1F4F1;
-    padding: 20px;
-    margin: 5px;
+    font-size: 2.5rem;
+}
 
-    
-} */
+.Antivirus ul {
+    list-style: circle; 
+    padding: 1; 
+    margin: 0; 
+
+}
+
+.Antivirus li {
+    background-color: #b6b008; 
+    padding: 8px; 
+    margin-bottom: 5px; 
+    border-radius: 4px; 
+}
+
+.Antivirus li:hover {
+    background-color: #ced4da; 
+    cursor: pointer; 
+}
+
+.Actualizacion {
+    background-color: #b50404; 
+    border: 2px solid #090909; 
+    padding: 20px; 
+    margin: 20px 0;
+    border-radius: 8px; 
+}
+
+.Actualizacion h2 {
+    color: #b6b008; 
+    margin-bottom: 10px; 
+    text-shadow: 2px 2px 4px;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.Actualizacion ul {
+    list-style: circle; 
+    padding: 1; 
+    margin: 0; 
+}
+
+.Actualizacion li {
+    background-color: #b6b008; 
+    padding: 8px; 
+    margin-bottom: 5px; 
+    border-radius: 4px;
+}
+
+.Actualizacion li:hover {
+    background-color: #ced4da; 
+    cursor: pointer; 
+}
+
+
+
+
 
 
 .footer {
