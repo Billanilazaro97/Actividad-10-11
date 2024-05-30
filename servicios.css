@@ -1,19 +1,48 @@
 body {
-    background-image: url(/img/net2.png);
-    background-size: cover;
-}
-h1{
-    background-color: #63C4B4;
-    color: #E1F4F1;
     font-family: cursive;
+    margin: 0;
+    padding: 0;
+    background-color: #89A9BD;
+    color: black;
 }
-h3 {
-    background-color: #63C4B4;
-    color: #E1F4F1;
-    font-family: cursive;
-    
-}
-li {
-    font-family: cursive;
 
+h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: #14E0DD;
+    color: whitesmoke;
+    margin: 0;
 }
+
+div {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px black;
+    border-radius: 8px;
+}
+
+h3 {
+    color: #53D520;
+    border-bottom: 2px solid #53D520;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #e9f5e9;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+ul li:hover {
+    background: #d1e9d1;
+}
+

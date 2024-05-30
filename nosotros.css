@@ -1,7 +1,32 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* Tipo de letra */
+    background-color: #558B72;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+}
+
+
 h1 {
-    color: #63C4B4;
-    background-color: #E1F4F1;
-    text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #BAE12F; 
+    text-align: center; 
+    margin-bottom: 20px; 
+}
+
+.nosotros {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 20px;
+}
+
+
+.nosotros img {
+    border-radius: 50%; 
+    border: 3px solid #BAE12F; 
+    box-shadow: 0 4px 8px black; 
 }
 

@@ -1,7 +1,47 @@
-h1 {
-    background-color: yellow;
-    color: blue;
-    text-align: center;
-    padding: 5px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #051F24;
+    color: #BF257C;
 }
+
+footer {
+    background-color: #051F24;
+    color: #BF257C;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 1;
+}
+
+.contactos {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.contactos h1 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+}
+.contactos ul {
+    list-style: none;
+    padding: 0;
+}
+
+.contactos ul li  {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+
+
+
+
+
+
+
+
+
+
